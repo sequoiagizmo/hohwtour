@@ -1,6 +1,4 @@
-# readme
-
-Page URL: https://sequoiagizmo.github.io/hohwtour/
+# House of Happy Walls 360 Tour
 
 To launch tour:
 1. Press the three circles in upper right hand corner
