@@ -7,3 +7,4 @@ To launch tour:
 2. Press "Fullscreen"
 
 <iframe width='960' height='540' src='https://roundme.com/embed/Al01f0H5m7KrWug3lgfB' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<a href="https://roundme.com/embed/SZkveXqaP5hFT7vpIpy2"> Fullscreen here </a>
